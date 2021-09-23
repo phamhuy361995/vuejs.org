@@ -4,7 +4,7 @@ type: guide
 order: 103
 ---
 
-> This page assumes you've already read the [Components Basics](components.html). Read that first if you are new to components.
+> Bài viết này giả định bạn đã đọc [Components cơ bản](components.html). Đọc nó trước nếu bạn mới đến với components.
 
 ## Event Names
 
